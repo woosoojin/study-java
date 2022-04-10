@@ -1,6 +1,7 @@
 package sec02.exam04;
 
 public class CharExample {
+
 	public static void main(String[] args) {
 		char c1 = 'A';
 		char c2 = 65;
@@ -17,4 +18,5 @@ public class CharExample {
 		System.out.println(c5);
 		System.out.println(c6);
 	}
+
 }
