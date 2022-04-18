@@ -14,6 +14,5 @@ public class FieldinitValueExample {
 		System.out.println("doubleField: " + fiv.doubleField);
 		System.out.println("arrField: " + fiv.arrField);
 		System.out.println("referenceField" + fiv.referenceField);
-
 	}
 }
